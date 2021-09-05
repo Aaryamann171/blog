@@ -21,7 +21,7 @@
 title: [untitled]
 email: aaryamann171@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  this blog exists because I am bored. When I am no longer bored, this blog will cease to exist.
+  Home to highly biased unoriginal ideas.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://aaryamann171.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
