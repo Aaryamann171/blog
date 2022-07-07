@@ -28,7 +28,7 @@ url: "https://aaryamann171.github.io" # the base hostname & protocol for your si
 github_username: aaryamann171
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 # Exclude from processing.
